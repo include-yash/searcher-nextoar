@@ -18,6 +18,8 @@ temp/
 
 # Results (optional — comment this if you want to keep versioning output)
 results/
+input_folders/
+input_folder/
 
 # macOS metadata
 .DS_Store
