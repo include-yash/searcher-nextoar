@@ -1,0 +1,33 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+
+# Environment files
+.env
+
+# Log files
+*.log
+process_log_*.txt
+
+# Temporary extracted files
+temp/
+
+# Results (optional — comment this if you want to keep versioning output)
+results/
+
+# macOS metadata
+.DS_Store
+
+# Windows metadata
+Thumbs.db
+
+# VS Code / JetBrains / other IDE settings
+.vscode/
+.idea/
+
+# ZIP files (optional — if you don’t want to commit inputs)
+input_zips/
