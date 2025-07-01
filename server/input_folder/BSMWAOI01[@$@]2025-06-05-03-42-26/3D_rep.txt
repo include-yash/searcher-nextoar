@@ -1,0 +1,58 @@
+Board: 881755-0020_DV_T2_004533, Operator:         v510,  05-Jun-2025 03:42:05, BC: P5155528300881755010020 L0 R1.5.5.6A1 0 21 ProductName:R1.5.5.6A1
+RefDes	DeviceType	dX	dY	X	Y	Threshold	Orientation	Height	ErrorCode	Remark
+
+1:c601-1 b_ecap_tpk-306245-4r7ea   25   25  -85    9     0    -1  5311 1000000 Coplanarity @<A>3DCoplan$@<P>Max_TH#160um@<R>Result#219um
+1:c601-1 b_ecap_tpk-306245-4r7ea   25   25   63    9     0    -1  5311 1000000 Coplanarity @<A>3DCoplan$@<P>Max_TH#160um@<R>Result#219um
+1:c601-1 b_ecap_tpk-306245-4r7ea  253  253   -6   -3     0 -983200000     0   0 BodyDisplay
+1:c601-1 b_ecap_tpk-306245-4r7ea    0    0    0    0 25000   270 -4609   0 BodyTopOffset
+1:c601-1 b_ecap_tpk-306245-4r7ea    0    0    0    0 25000   270 -4609   0 BodyBotOffset
+1:c601-1 b_ecap_tpk-306245-4r7ea    0    0    0    0 22300   270 10107   0 BodyHorOffset
+1:c601-1 b_ecap_tpk-306245-4r7ea    0    0    0    0 5000000   270 -983200000   0 BodySkew
+1:c601-1 b_ecap_tpk-306245-4r7ea  253  253   -4  -12     0 -983200000     0   0 BodyTypeOffset
+1:l1004-1 b-ind-324381-035a   17   20    7   60     0    -1     0  80 Bridging @<A>3DMultiJoint@<J>Pin_1$@<D>2DBridging
+1:l1004-1 b-ind-324381-035a   66   84    3   -3     0 -2147483648     0   0 BodyDisplay
+1:l1004-1 b-ind-324381-035a    0    0    0    0 15000    16  3664   0 BodyTopOffset
+1:l1004-1 b-ind-324381-035a    0    0    0    0 15000    16  7118   0 BodyBotOffset
+1:l1004-1 b-ind-324381-035a    0    0    0    0 15000    16 -5991   0 BodyHorOffset
+1:l1004-1 b-ind-324381-035a    0    0    0    0 5000000    16 -2147483648   0 BodySkew
+1:l1004-1 b-ind-324381-035a   66   84    0    0     0 -2147483648     0   0 BodyTypeOffset
+2:j1000-2 b-conn-326010-0020 1006  765    4  -17     0 -2147483648     0   0 BodyDisplay
+2:j1000-2 b-conn-326010-0020    0    0    0    0 26500   106 28698   0 BodyTopOffset
+2:j1000-2 b-conn-326010-0020    0    0    0    0 26500   106 22901   0 BodyBotOffset
+2:j1000-2 b-conn-326010-0020    0    0    0    0 26500   106  6427   0 BodyHorOffset
+2:j1000-2 b-conn-326010-0020    0    0    0    0 7000000   106 -2147483648   0 BodySkew
+2:j1000-2 b-conn-326010-0020 1006  765    0   21     0 -2147483648     0   0 BodyTypeOffset
+2:j2600-2 bconn_tpk-862841-0010  470  586   -7   -3     0 -2147483648     0   0 BodyDisplay
+2:j2600-2 bconn_tpk-862841-0010    0    0    0    0 14000   180  6848   0 BodyTopOffset
+2:j2600-2 bconn_tpk-862841-0010    0    0    0    0 14000   180 15993   0 BodyBotOffset
+2:j2600-2 bconn_tpk-862841-0010    0    0    0    0 14000   180  5556   0 BodyHorOffset
+2:j2600-2 bconn_tpk-862841-0010    0    0    0    0 5000000   180 -2147483648   0 BodySkew
+2:j2600-2 bconn_tpk-862841-0010  470  586    6    2     0 -2147483648     0   0 BodyTypeOffset
+2:r1736-2 r0201_tpk-806732-0201   20   40   -1    8     0 -2147483648     0   0 BodyDisplay
+2:r1736-2 r0201_tpk-806732-0201    0    0    0    0 12000   135 12614   0 BodyTopOffset
+2:r1736-2 r0201_tpk-806732-0201    0    0    0    0 12000   135 12870   0 BodyBotOffset
+2:r1736-2 r0201_tpk-806732-0201    0    0    0    0 12000   135 -2116   0 BodyHorOffset
+2:r1736-2 r0201_tpk-806732-0201    0    0    0    0 5000000   135 -2147483648   0 BodySkew
+2:r1736-2 r0201_tpk-806732-0201   20   40    0    0     0 -2147483648     0   0 BodyTypeOffset
+2:u300-2 soic_4-277563-001   39   23  210  -20    50    -1    47 200 BadJoint @<A>3DJointTips@<J>Pin_6$@<D>3DSolderProfile_FilletSolderLength@<P>Min_TH#50%@<R>Result#47%
+2:u300-2 soic_4-277563-001  360  133    0    0     0 -2147483648     0   0 BodyDisplay
+2:u300-2 soic_4-277563-001    0    0    0    0 25000     0 -2146   0 BodyTopOffset
+2:u300-2 soic_4-277563-001    0    0    0    0 25000     0  -465   0 BodyBotOffset
+2:u300-2 soic_4-277563-001    0    0    0    0 25000     0  1006   0 BodyHorOffset
+2:u300-2 soic_4-277563-001    0    0    0    0 500000     0 -2147483648   0 BodySkew
+2:u300-2 soic_4-277563-001  360  133    0    0     0 -2147483648     0   0 BodyTypeOffset
+2:u600-2 btpk-873959-0010   16   20  -66 -110     0    -1     0 200 BadJoint @<A>3DMultiJoint@<J>Pin_1$@<D>3DSolderProfile_FilletWidth@<P>Min_TH#50%@<R>Result#37%$@<D>3DSolderProfile_FilletSolderLength@<P>Min_TH#50%@<R>Result#37%
+2:u600-2 btpk-873959-0010  200  200   -1    0     0 -2118600000     0   0 BodyDisplay
+2:u600-2 btpk-873959-0010    0    0    0    0  8000    90  -510   0 BodyTopOffset
+2:u600-2 btpk-873959-0010    0    0    0    0  8000    90  -945   0 BodyBotOffset
+2:u600-2 btpk-873959-0010    0    0    0    0  8000    90 -1936   0 BodyHorOffset
+2:u600-2 btpk-873959-0010    0    0    0    0 1000000    90 -2118600000   0 BodySkew
+2:u600-2 btpk-873959-0010  200  200    0    0     0 -2118600000     0   0 BodyTypeOffset
+5:u3101-5 b-tpk-775910-0010   32   28   19   33     0   180   987 1000 Polarity @<A>Polarity$@<D>Page_0@<P>Max#5@<R>Result#5
+5:u3101-5 b-tpk-775910-0010   32   28  -19  -33     0   180   987 1000 Polarity @<A>Polarity$@<D>Page_0@<P>Max#5@<R>Result#5
+5:u3101-5 b-tpk-775910-0010  170  225   -2    2     0 -315400000     0   0 BodyDisplay
+5:u3101-5 b-tpk-775910-0010    0    0    0    0 15000   180  3754   0 BodyTopOffset
+5:u3101-5 b-tpk-775910-0010    0    0    0    0 15000   180  3454   0 BodyBotOffset
+5:u3101-5 b-tpk-775910-0010    0    0    0    0 15000   180 -3078   0 BodyHorOffset
+5:u3101-5 b-tpk-775910-0010    0    0    0    0 5000000   180 -315400000   0 BodySkew
+5:u3101-5 b-tpk-775910-0010  170  225    0    0     0 -315400000     0   0 BodyTypeOffset

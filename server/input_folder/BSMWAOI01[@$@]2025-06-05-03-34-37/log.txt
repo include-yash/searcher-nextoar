@@ -1,0 +1,28 @@
+Last_rep_counter: 274
+Board: 881755-0020_DV_T2_004533
+Dat: 881755-0020_DV_T2_004315+004533.dat
+matrix file not exist, path: c://cpi//cad//881755-0020_DV_T2_004533.matrix
+info rep file not exist, path: c://cpi//rep//info274.txt
+orirep file not exist, path: c://cpi//rep//cpi274.orirep
+info rep file not exist, path: c://cpi//rep//info274.txt
+skip file not exist, path: C:\//P5155527700881755010020.ini
+repSC file not exist, path: c://cpi//rep//cpi274.repSC
+.joint file not exist, path: c://cpi//rep//cpi274.joint
+.lead file not exist, path: c://cpi//rep//cpi274.lead
+.coplanFile file not exist, path: c://cpi//rep//cpi274.coplan
+grr3d file not exist, path: c://cpi//rep//cpi274.grr3d
+golden finger file not exist, path: c://cpi//rep//SDS274.txt
+boxToBoxResult3D file not exist, path: c://cpi//rep//cpi274.BoxToBoxResult3D
+gap file not exist, path: c://cpi//rep//cpi274.gap
+sp file not exist, path: c://cpi//rep//cpi274.sp
+jointResult3D file not exist, path: c://cpi//rep//cpi274.jointResult3D
+resultFile file not exist, path: c://cpi//rep//cpi274.result
+measurement result file not exist, path: c://cpi//rep//meaResult274.json
+Volume file not exist, path: c://cpi//rep//cpi274.vol
+.json file not exist, path: c://cpi//rep//cpi274.json
+ocr file not exist, path: c://cpi//rep//joi274.txt
+extraInfo file not exist, path: c://cpi//cad//881755-0020_DV_T2_004533.extrainfo
+job file not exist, path: c://cpi//data//jobFile.txt
+SyncProgramInfo file not exist, path: c://cpi//data//SyncProgramInfo.txt
+SpecialCharConversion file not exist, path: C://cpi//data//SpecialCharConversion.json
+eRep file not found, path: c://cpi//rep//cpi274.eRep
